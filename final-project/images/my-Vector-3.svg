@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114 41" width="114" height="41">
+	<title>Vector 4-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,43,-119.269,0,56.75,-4.5)">
+			<stop offset="0" stop-color="#5fdf92" stop-opacity=".8"/>
+			<stop offset="1" stop-color="#5fdf92" stop-opacity="0"/>
+		</linearGradient>
+		<image width="115" height="27" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTE1IiBoZWlnaHQ9IjI3IiB2aWV3Qm94PSIwIDAgMTE1IDI3IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMSAyNS45OTk4QzIgMjguNDk5OCAxMi42Mjc0IDEwLjE5MzkgMjEgMTQuNDk5OEMzOC41IDIzLjQ5OTcgNDUuNSAtMi41MDAxNiA2MCAxLjQ5OTg0Qzc0LjUgNS40OTk4NCA4MC41IDE0LjQ5OTcgOTAuNSA3Ljk5OTc4QzEwMC41IDEuNDk5ODQgMTAyIDE5Ljk5OTggMTE0LjUgMjUuOTk5OCIgc3Ryb2tlPSIjMjhDMTY1Ii8+Cjwvc3ZnPgo="/>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" class="s0" d="m20 13.5c-8.4-4.3-19 14-20 11.5v16h113.5v-16c-12.5-6-14-24.5-24-18-10 6.5-16-2.5-30.5-6.5-14.5-4-21.5 22-39 13z"/>
+	<use id="Vector-3" href="#img1" transform="matrix(.991,0,0,.991,0,0)"/>
+</svg>
